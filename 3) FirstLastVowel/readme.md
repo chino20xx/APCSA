@@ -1,0 +1,1 @@
+Return "yes" if the first letter or last letter of the string is a vowel [ aeiouAEIOU ].  Return "no" if the string does not start or end with a vowel.    
