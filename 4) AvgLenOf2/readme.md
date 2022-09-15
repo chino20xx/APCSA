@@ -1,0 +1,1 @@
+:   Return the average length of the 2 string parameters passed in.   Output should be a decimal.
